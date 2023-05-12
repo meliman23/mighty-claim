@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mighty-claim/static/css/main.2c92cd19.css",
+    "main.js": "/mighty-claim/static/js/main.c4329b0b.js",
+    "static/media/cj.jpg": "/mighty-claim/static/media/cj.fdb015b2548e77a62a6d.jpg",
+    "index.html": "/mighty-claim/index.html",
+    "main.2c92cd19.css.map": "/mighty-claim/static/css/main.2c92cd19.css.map",
+    "main.c4329b0b.js.map": "/mighty-claim/static/js/main.c4329b0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c92cd19.css",
+    "static/js/main.c4329b0b.js"
+  ]
+}
